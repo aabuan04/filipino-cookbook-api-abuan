@@ -203,8 +203,3 @@ All endpoints, including the optional enhancements above, were tested using **Th
 - 401 handling for missing/invalid tokens
 - 500 handling with secure, generic error messages
 - Successful POST insertion with relational data (food + ingredients)
-
-## Developer Information
-
-- **GitHub Repository:** (add your repository link here)
-- **Date Completed:** (add completion date here)
